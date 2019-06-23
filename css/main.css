@@ -35,7 +35,7 @@ P{
 .profile-picture{
   height: 25rem;
   width: 22rem;
-  border-radius: 15rem;
+  border-radius: 120px;
 }
 hr{
   border: dotted 10px lightgrey;
