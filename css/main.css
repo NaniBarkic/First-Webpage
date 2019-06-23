@@ -134,6 +134,7 @@ hr{
   font-weight: bold;
 }
 .bottom-container p{
+  display:inline-flex;
   color: #eaf6f6;
   padding: 20px 0;
   line-height: 2rem;
