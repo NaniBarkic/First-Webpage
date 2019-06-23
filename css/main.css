@@ -32,6 +32,10 @@ h3 {
 P{
   line-height: 2;
 }
+.profile-picture{
+  height: 25rem;
+  width: 22rem;
+}
 hr{
   border: dotted 10px lightgrey;
   border-bottom: none;
