@@ -28,6 +28,7 @@ h3 {
   color: #11999e;
   font-family: 'Montserrat', sans-serif;
   font-weight: 600;
+  
 }
 P{
   line-height: 2;
@@ -119,6 +120,9 @@ hr{
 }
 .contact-me{
   line-height: 3rem;
+}
+.contact-me h3{
+  font-size:1.5rem;
 }
 .bottom-container{
   background-color: #66bfbf;
